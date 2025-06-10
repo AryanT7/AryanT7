@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AryanT7
-- 👀 I’m interested in building interesting projects .
-- 🌱 I’m currently learning software development.
+- 👋 Hi, I’m Aryan
+- I’m interested in building interesting projects .
+- I’m currently learning software development.
 - 📫 E-mail ID : aryan100282@gmail.com
